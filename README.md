@@ -14,7 +14,7 @@ The **Optiver - Trading at the Close** competition focuses on predicting stock p
   - Data cleaning and wrapper functions.
   - Initial implementation of machine learning models (without GPU acceleration).
 
-### 2. `Experiment_Notebook.ipynb`
+### 2. `Training_Notebook.ipynb`
 - **Purpose:** Advanced model experimentation and optimization.
 - **Key Features:**
   - Model training with GPU acceleration (using Google Colab/Kaggle).
